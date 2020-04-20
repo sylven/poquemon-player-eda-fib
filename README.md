@@ -5,4 +5,4 @@ Poquémon is a coding game created by [Àlex Moré](https://github.com/jdecid) f
 We had a tournament among the students of EDA subject on March 2016.
 My player won.
 
-<img src="./art/board.jpg" width="100%">
+<img src="./art/board.png" width="100%">
